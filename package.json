@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/aaronlng/eat-da-burger#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-handlebars": "^5.3.1",
     "mysql": "^2.17.1"
   }
